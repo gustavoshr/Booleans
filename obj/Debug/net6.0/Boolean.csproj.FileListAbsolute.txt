@@ -1,0 +1,15 @@
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\bin\Debug\net6.0\Boolean.exe
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\bin\Debug\net6.0\Boolean.deps.json
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\bin\Debug\net6.0\Boolean.runtimeconfig.json
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\bin\Debug\net6.0\Boolean.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\bin\Debug\net6.0\Boolean.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.csproj.AssemblyReference.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.AssemblyInfoInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.AssemblyInfo.cs
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\refint\Boolean.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\Boolean.genruntimeconfig.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\Boolean\obj\Debug\net6.0\ref\Boolean.dll
